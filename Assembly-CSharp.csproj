@@ -53,6 +53,7 @@
     <UnityVersion>2021.3.10f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Input System\PlayerInputAction.cs" />
     <Compile Include="Assets\MouseLook.cs" />
     <Compile Include="Assets\Input System\TestInputSystemJump.cs" />
   </ItemGroup>
